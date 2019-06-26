@@ -1,11 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: calibri;
   font-size: 25px;
+  margin: 0;
+  padding: 0;
 }
 
 table {
