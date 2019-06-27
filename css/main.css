@@ -17,7 +17,6 @@ body {
   top: 0;
   bottom: 0;
   background-color: white;
-  overflow-x: visible;
 }
 
 .BannerPic::before {
@@ -35,7 +34,7 @@ body {
   position: relative;
   z-index: -10;
   height: 60vh;
-  width: 100%;
+  min-width: 500px;
   overflow-y: hidden;
 }
 
