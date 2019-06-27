@@ -9,6 +9,8 @@
   background-size: cover;
   height: 40vh;
   position: relative;
+  background-color: white;
+  width: 100vw;
   z-index: -10;
 }
 
