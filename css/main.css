@@ -1,11 +1,11 @@
 @media only screen and (min-resolution=200dpi) {
   .BannerPic {
-    background: url(../BannerPic-4k) no-repeat center;
+    background: url(../BannerPic-4k.png) no-repeat center;
   }
 }
 
 .BannerPic {
-  background: url(../BannerPic-1080p) no-repeat center;
+  background: url(../BannerPic-1080p.png) no-repeat center;
   background-size: cover;
   height: 40vh;
   position: relative;
