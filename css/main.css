@@ -8,6 +8,8 @@
   background: url(../BannerPic-1080p) no-repeat center;
   background-size: cover;
   height: 40vh;
+  position: relative;
+  z-index: 1;
 }
 
 .Banner {
