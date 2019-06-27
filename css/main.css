@@ -17,6 +17,7 @@ body {
   top: 0;
   bottom: 0;
   background-color: white;
+  overflow-x: visible;
 }
 
 .BannerPic::before {
