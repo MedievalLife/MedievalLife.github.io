@@ -7,10 +7,12 @@
 .BannerPic {
   background: url(../BannerPic-1080p.png) no-repeat center;
   background-size: cover;
-  height: 40vh;
-  position: relative;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
   background-color: white;
-  width: 100%;
   z-index: -10;
 }
 
@@ -28,6 +30,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  height: 700px;
 }
 
 .BannerText {
