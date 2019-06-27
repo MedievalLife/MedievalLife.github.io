@@ -14,7 +14,8 @@
 
 .Banner {
   text-align: center;
-  position: relative
+  position: relative;
+  overflow: hidden;
 }
 
 .BannerText {
