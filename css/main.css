@@ -4,6 +4,10 @@
   }
 }
 
+body {
+  min-width: 500px;
+}
+
 .BannerPic {
   background: url(../BannerPic-1080p.png) no-repeat center;
   background-size: cover;
