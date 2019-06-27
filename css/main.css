@@ -30,6 +30,7 @@
   text-align: center;
   position: relative;
   overflow-y: hidden;
+  overflow-x: visible;
   height: 100vh;
 }
 
