@@ -30,7 +30,7 @@
   text-align: center;
   position: relative;
   overflow-y: hidden;
-  height: 700px;
+  height: 100vh;
 }
 
 .BannerText {
